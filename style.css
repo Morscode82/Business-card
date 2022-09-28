@@ -1,0 +1,25 @@
+body {
+    margin:20px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+
+.avatar {
+    width:150px;
+}
+
+.card{
+    padding:20px;
+    display:flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    width:400px;
+    text-align: center;
+   background: #8d95a0;
+   color: #f5e9a4;
+   border-top: 12px ridge #1f1f1fff;
+   border-bottom:12px ridge #968136ff;
+   border-left:12px ridge #1f1f1fff;
+   border-right:12px ridge #968136ff;
+}
+
